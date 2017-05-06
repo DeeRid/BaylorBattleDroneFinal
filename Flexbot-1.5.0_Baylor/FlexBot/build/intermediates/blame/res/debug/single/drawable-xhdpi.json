@@ -1,0 +1,778 @@
+[
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_hold_off_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_hold_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ble_no_connect.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\ble_no_connect.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_threemotor_off.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_threemotor_off.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ble_indicator_closed.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\ble_indicator_closed.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alt_hold_on.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\alt_hold_on.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_right_checked_normal.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_right_checked_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_close_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_close_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alt_hold_off_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\alt_hold_off_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_help_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_help_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seekbar_point.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\seekbar_point.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bar_bottom.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\bar_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_hold_off_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_hold_off_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back_divider.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_back_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_on_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_off_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\device_battery_2.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\device_battery_2.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_allmotor_off.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_allmotor_off.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record_pressed.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_04.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_04.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_right_orange.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\arrow_right_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record1_pressed.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record1_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gnome_ftp.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\gnome_ftp.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ble_connected.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\ble_connected.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gallery_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_gallery_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_cn_04.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_cn_04.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gesture_on_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_gesture_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_arrow_left_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_arrow_left_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_wifi_1.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_wifi_1.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_center_pressed.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_center_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_top_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\left_top_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\middle_bg.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\middle_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_onemotor_on.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_onemotor_on.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_stop_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_stop_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_right_pressed.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_right_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_hold_on_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_hold_on_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_share_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_share_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record2.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record2.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back_normal_new.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_back_normal_new.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_center_checked_pressed.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_center_checked_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record_video_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record_video_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_top_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\left_top_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_cn_06.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_cn_06.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_bottom_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\left_bottom_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_twomotor_off.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_twomotor_off.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_reset_white.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_reset_white.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wifi_indicator_2.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\wifi_indicator_2.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\joystick_bg.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\joystick_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\barre_bas.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\barre_bas.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\web_address.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\web_address.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\recording_status.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\recording_status.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_06.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_06.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scroll_bar_gray.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\scroll_bar_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_right_checked_pressed.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_right_checked_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_up_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_up_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_btn_settings_pressed.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\back_btn_settings_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wifi_indicator_3.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\wifi_indicator_3.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_unlock_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_unlock_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_off_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_off_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\status_bar.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\status_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_bottom_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\right_bottom_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\left_bottom_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\left_bottom_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seekbar_total.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\seekbar_total.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_left_normal.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_left_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_center_checked_normal.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_center_checked_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_settings_normal1.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_settings_normal1.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\joystick_roll_pitch.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\joystick_roll_pitch.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_1.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_1.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\album_play_btn.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\album_play_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wifi_indicator_4.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\wifi_indicator_4.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_left_pressed.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_left_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\joystick_bg_new.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\joystick_bg_new.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\joystick_rudder_throttle_new.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\joystick_rudder_throttle_new.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_settings_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_settings_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_onemotor_off.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_onemotor_off.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_arrow_right_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_arrow_right_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_off.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\switch_off.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_bottom_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\right_bottom_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_battery_3.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_battery_3.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_settings_normal1_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_settings_normal1_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alt_hold_off.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\alt_hold_off.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_unlock_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_unlock_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_tile.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\bg_tile.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_capture_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_capture_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_top_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\right_top_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_help_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_help_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_up_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_up_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_cn_05.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_cn_05.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hud_bg.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\hud_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gallery_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_gallery_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_play_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_play_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_back_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gesture_on_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_gesture_on_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_on_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_on_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_cn_03.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_cn_03.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_share_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_share_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_black_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_black_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_delete_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_delete_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\device_battery_3.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\device_battery_3.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_05.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_05.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\trim_dummy_center.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\trim_dummy_center.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\text_show_bar.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\text_show_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\seekbar_part.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\seekbar_part.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_left_checked_pressed.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_left_checked_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo_new.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\logo_new.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\screw.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\screw.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_reset_orange_disabled.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_reset_orange_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ff2_top_bar_time.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\ff2_top_bar_time.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_battery_4.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_battery_4.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_wifi_0.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_wifi_0.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_fixed_high_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_fixed_high_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_photos_pressed.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_photos_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\barre_haut.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\barre_haut.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_left_orange.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\arrow_left_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_cn_01.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_cn_01.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_settings_pressed.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_settings_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_twomotor_on.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_twomotor_on.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_firecannon.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_firecannon.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_03.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_03.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\process_icon.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\process_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\joystick_rudder_throttle.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\joystick_rudder_throttle.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_videos_selected.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_videos_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alt_hold_on_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\alt_hold_on_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_lauchnow.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_lauchnow.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_arrow_right_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_arrow_right_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_lock_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_lock_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_battery_2.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_battery_2.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_capture_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_capture_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_back_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_center_normal.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_center_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_left_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_left_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bar_top.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\bar_top.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_off_disabled.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_off_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_on_disabled.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_on_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_take_off_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_take_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scroll_btn.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\scroll_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_down_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_down_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\device_battery_1.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\device_battery_1.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\album_play_btn_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\album_play_btn_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_allmotor_on.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_allmotor_on.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_2.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_2.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_stop_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_stop_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_play_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_play_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_videos.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_videos.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_arrow_left_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_arrow_left_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alt_hold_off_disabled.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\alt_hold_off_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_battery_0.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_battery_0.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_hold_on_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_hold_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_photos.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_right_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_right_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_take_off_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_take_off_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_01.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_01.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scroll_bar_orange.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\scroll_bar_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_left_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_left_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_left_checked_normal.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_left_checked_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bug.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\bug.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ble_indicator_opened.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\ble_indicator_opened.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\transparent_bg_tile.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\transparent_bg_tile.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_lock_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_lock_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_btn_settings_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\back_btn_settings_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\angeleyes01.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\angeleyes01.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gesture_off_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_gesture_off_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_settings_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_settings_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\joystick_bg2.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\joystick_bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_02.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_02.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_down_hl.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_down_hl.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_on.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\switch_on.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\device_battery_0.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\device_battery_0.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_background.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\main_background.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_battery_1.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_battery_1.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wifi_indicator_1.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\wifi_indicator_1.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\eye_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\eye_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_wifi_3.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_wifi_3.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record_video_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record_video_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_black_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_black_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\alt_hold_on_disabled.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\alt_hold_on_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_close_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_close_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_delete_pressed.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_delete_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_reset_orange.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_reset_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\right_top_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\right_top_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_trim_right_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_trim_right_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher2.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\segment_right_normal.9.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\segment_right_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_wifi_2.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_wifi_2.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\eye_press.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\eye_press.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_record1.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_record1.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd_threemotor_on.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\sd_threemotor_on.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\help_page_cn_02.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\help_page_cn_02.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_gesture_off_normal.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_gesture_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\joystick_roll_pitch_new.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\joystick_roll_pitch_new.png"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_check_buttonless_on.png",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\drawable-xhdpi\\btn_check_buttonless_on.png"
+    }
+]

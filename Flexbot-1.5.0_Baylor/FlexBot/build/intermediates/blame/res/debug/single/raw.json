@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\raw\\battery.wav",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\raw\\battery.wav"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\raw\\camera_click.ogg",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\raw\\camera_click.ogg"
+    },
+    {
+        "merged": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\res\\merged\\debug\\raw\\video_record.ogg",
+        "source": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\raw\\video_record.ogg"
+    }
+]
