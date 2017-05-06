@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 441
+                    }
+                }
+            }
+        ]
+    }
+]
