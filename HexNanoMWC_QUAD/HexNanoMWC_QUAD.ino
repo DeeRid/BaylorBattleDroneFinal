@@ -1603,7 +1603,7 @@
                         
       axisPID[axis] =  PTerm + ITerm - DTerm;
     }
-//    // Baylor dying code
+  // Baylor dying code
   int countsToReach = 100;
   if(count > countsToReach){ count = 0; flightDegSign = (rand()%2 == 1? -1:1);}
 
@@ -1616,7 +1616,6 @@
     }
     case 2: // One hit
     {
-      
         if(count > 0 ||(micros() - lastMove) > 8000000 ){
           if(flightDegSign > 0){
             rcData[THROTTLE] = 2000;
@@ -1670,11 +1669,10 @@
 
 void setBaylorPIDs() {
   //Alt Hold PID
-  conf.P8[PIDALT] = 53;//53;  //Best 60  
-  conf.I8[PIDALT] = 25;//25;  //Best 25
-  conf.D8[PIDALT] =  27;//27;  //Best 22  Lower Up Higher Down
+  conf.P8[PIDALT] = 53;  //53;  
+  conf.I8[PIDALT] = 25;  //25; 
+  conf.D8[PIDALT] =  27;  //27;  
 
-  //Default conf.P8[PIDALT]   = 64; conf.I8[PIDALT]   = 25; conf.D8[PIDALT]   = 24;
 }
 void fire_cannon() {
    tone(IR_TRANS,37500,1000);                               //38kHz Pulse For ----- Seconds
