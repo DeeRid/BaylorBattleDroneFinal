@@ -1,7 +1,0 @@
-#Thu Apr 27 16:35:48 CDT 2017
-base.0=C\:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\dd-plist_f36922fb2b0f59199c5935f36159e320a9aaa1bc
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_6dbaeda0289ece42133f0d504df32e85e93dd70d\\classes.dex
-base.1=C\:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_6dbaeda0289ece42133f0d504df32e85e93dd70d
-file.0=C\:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\dd-plist_f36922fb2b0f59199c5935f36159e320a9aaa1bc\\classes.dex

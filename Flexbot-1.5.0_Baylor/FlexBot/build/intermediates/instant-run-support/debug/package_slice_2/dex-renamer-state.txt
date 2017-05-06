@@ -1,4 +1,0 @@
-#Thu Apr 27 16:35:48 CDT 2017
-base.0=C\:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
-renamed.0=classes.dex
-file.0=C\:\\Users\\cblan\\Downloads\\Flexbot-1.5.0_Baylor-master\\FlexBot\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
